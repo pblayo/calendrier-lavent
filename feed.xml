@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://avent.data.gouv.fr/calendrier-lavent/feed.xml" rel="self" type="application/atom+xml" /><link href="https://avent.data.gouv.fr/calendrier-lavent/" rel="alternate" type="text/html" /><updated>2017-12-02T10:35:13+00:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/</id><title type="html">Calendrier de l’Avent Open Data 2017</title><subtitle>Pas de data, pas de chocolat !</subtitle><entry><title type="html">data.gouv</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/02" rel="alternate" type="text/html" title="data.gouv" /><published>2017-12-02T00:00:00+00:00</published><updated>2017-12-02T00:00:00+00:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/day2</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/02">&lt;p&gt;+51 % de visiteurs uniques mensuels en un an !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;La fréquentation de data.gouv est en forte en hausse en 2017 par rapport à 2016. Ainsi le nombre de visiteurs uniques mensuels a augmenté de 51 % entre novembre 2016 et novembre 2017. On constate le même phénomène pour tous les mois de l’année avec même une augmentation de 105 % entre juin 2016 et juin 2017 !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/statsdatagouv/master/piwik.png&quot; alt=&quot;Fréquentation de data.gouv&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le jeu de données est maintenant disponible sur data.gouv.fr&lt;/p&gt;
+
+&lt;div data-udata-dataset-id=&quot;5a22644f88ee3848529af925&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://www.data.gouv.fr/static/widgets.js&quot; id=&quot;udata&quot; async=&quot;&quot; defer=&quot;&quot; onload=&quot;udataScript.loadDatasets()&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">+51 % de visiteurs uniques mensuels en un an !</summary></entry><entry><title type="html">Les prénoms en open data</title><link href="https://avent.data.gouv.fr/calendrier-lavent/2017/01" rel="alternate" type="text/html" title="Les prénoms en open data" /><published>2017-12-01T00:00:00+00:00</published><updated>2017-12-01T00:00:00+00:00</updated><id>https://avent.data.gouv.fr/calendrier-lavent/2017/prenoms</id><content type="html" xml:base="https://avent.data.gouv.fr/calendrier-lavent/2017/01">&lt;p&gt;5,4 % des filles nées en France depuis 1900 s’appellent Marie et 4,6 % des garçons s’appellent Jean !&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Depuis le 1er janvier, toutes les données sur les prénoms sont disponibles en open data sur data.gouv et les réutilisations sont déjà nombreuses.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-10-prénoms-masculins-les-plus-fréquents-depuis-1900&quot;&gt;Les 10 prénoms masculins les plus fréquents depuis 1900&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/datagouvprenoms/master/prenoms_1.png&quot; alt=&quot;Les 10 prénoms masculins les plus fréquents depuis 1900&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;les-10-prénoms-féminins-les-plus-fréquents-depuis-1900&quot;&gt;Les 10 prénoms féminins les plus fréquents depuis 1900&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/pachevalier/datagouvprenoms/master/prenoms_2.png&quot; alt=&quot;Les 10 prénoms féminins les plus fréquents depuis 1900&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;explorez-vous-même-le-jeu-de-données-sur-datagouv-&quot;&gt;Explorez vous même le jeu de données sur data.gouv :&lt;/h2&gt;
+
+&lt;div data-udata-dataset-id=&quot;586a824588ee3835ec3f4e61&quot;&gt;&lt;/div&gt;
+&lt;script src=&quot;https://www.data.gouv.fr/static/widgets.js&quot; id=&quot;udata&quot; async=&quot;&quot; defer=&quot;&quot; onload=&quot;udataScript.loadDatasets()&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">5,4 % des filles nées en France depuis 1900 s’appellent Marie et 4,6 % des garçons s’appellent Jean !</summary></entry></feed>
